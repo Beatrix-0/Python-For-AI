@@ -1,6 +1,6 @@
 # Table of content
 
-## Numpy_fundamentals(session_13)
+## Numpy_fundamentals(session-13)
 
 - NumPy Theory
 - <b>Creating Arrays</b>
@@ -35,7 +35,7 @@
   - Stacking - vstack, hstack
   - Splitting - hsplit, vsplit
 
-## Numpy-advanced(session_14)
+## Numpy-advanced(session-14)
 
 - NumPy Array vs Python List
 - Advance Indexing
@@ -49,3 +49,29 @@
 - Mean Squared error in NumPy
 - Working with missing values
 - Plotting Graphs
+
+
+## Numpy-tricks(session-15)
+- np.sort
+- np.append
+- np.concatenate
+- np.unique
+- np.expand_dims
+- np.where
+- np.argmax, np.argmin
+- np.cumsum, np.cumprod
+- np.percentile
+- np.histogram
+- np.corrcoef
+- np.isin
+- np.flip
+- np.put
+- np.delete
+- Set Functions
+- np.union1d
+- np.intersect1d
+- np.setdiff1d
+- np.setxor1d
+- np.in1d
+- np.clip
+
